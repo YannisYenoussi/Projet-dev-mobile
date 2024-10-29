@@ -30,7 +30,8 @@ Clonez le dépôt :
 
 bash
 Copier le code
-git clone  https://github.com/YannisYenoussi/Projet-dev-mobile.git
+git clone  https://github.com/YannisYenoussi/Projet-dev-mobile.git 
+aller sur la branche master
 cd Projet-dev-mobile
 Installez les dépendances :
 
